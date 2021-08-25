@@ -5,7 +5,8 @@
  * I'm passionate about Web Dev, Data Analytics and enjoy learning new thing.
  * I'm currently learning java language.
 ## How to reach me : 
-[nainabaghel43@gmail.com](nainabaghel43@gmail.com)
+* [nainabaghel43@gmail.com](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inboxnainabaghel43@gmail.com)
+* [Connect me on linkedIn](https://www.linkedin.com/in/naina-baghel-762a21204/)
 
 <!--
 **nainabaghel/nainabaghel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
