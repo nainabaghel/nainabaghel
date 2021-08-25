@@ -1,5 +1,5 @@
 # Naina Baghel
-[<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLnMP68QxQ1ejY5NHwUDVe4_8E6cGhQlWuMGYHxsLktqo6bWPh6QfnVpkKlvbh6QQTJsI&usqp=CAU">](https://www.linkedin.com/in/naina-baghel-762a21204/http://google.com.au/)
+[<img src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif" width="80" height="80">](https://www.linkedin.com/in/naina-baghel-762a21204/http://google.com.au/) [<img src="https://i.pinimg.com/originals/f7/dc/b2/f7dcb2817ad147c8b1d700ceb1d8cb28.gif" width="80" height="80">](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inboxnainabaghel43@gmail.com)
 ## Hi 👋, I'm Naina!
 ## **About Me**
 
@@ -8,10 +8,9 @@
  * I'm currently learning java language.
 ## How to reach me : 
 
-1. Email Id : 
+* Email Id : 
  [nainabaghel43@gmail.com](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inboxnainabaghel43@gmail.com)
-2. LinkedIn profile : 
-  [LinkedIn](https://www.linkedin.com/in/naina-baghel-762a21204/)
+
 
 <!--
 **nainabaghel/nainabaghel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
